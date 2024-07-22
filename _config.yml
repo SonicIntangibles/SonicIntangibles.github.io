@@ -318,11 +318,6 @@ scholar:
   replace_strings: true
   join_strings: true
 
-# Added [PV]
-  bibtex_filters:
-  - superscript
-  - latex
-
   details_dir: bibliography
   details_link: Details
 
