@@ -1,4 +1,4 @@
-version: "3"
+# version: "3"
 # this file uses prebuilt image in dockerhub
 services:
   jekyll:
@@ -6,7 +6,7 @@ services:
     build: .
     ports:
       - 8080:8080
-      - 35729:35729
+      - 35730:35730
     volumes:
       - .:/srv/jekyll
     environment:

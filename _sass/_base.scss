@@ -666,6 +666,7 @@ footer.sticky-bottom {
   }
 
   h2.bibliography {
+    /* Added globab-bib-divider-color for bib header text */
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
@@ -740,8 +741,9 @@ footer.sticky-bottom {
 
       .links {
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
+          color: #ffffff; /* Changed to white [PV] var(--global-text-color); */
+          border: none; /* 1px solid var(--global-text-color); [PV] */
+          border-radius: 8px; /* Added rounded corners [PV] */
           padding-left: 1rem;
           padding-right: 1rem;
           padding-top: 0.25rem;
