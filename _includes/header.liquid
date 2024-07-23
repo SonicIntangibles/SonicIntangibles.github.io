@@ -2,8 +2,10 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
-        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+      <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+        {% if site.logo %}
+          <img src="{{ site.logo }}" alt="{{ site.logo_alt_text }}" width="140">
+        {% else %}
           {% if site.title == 'blank' %}
             {% if site.first_name %}
               <span class="font-weight-bold">
@@ -19,10 +21,13 @@
           {% else %}
             {{- site.title -}}
           {% endif %}
-        </a>
-      {% elsif site.enable_navbar_social %}
-        <!-- Social Icons -->
-        <div class="navbar-brand social">{% include social.liquid %}</div>
+        {% endif %}
+      </a>
+      {% if page.permalink == '/' %}
+        {% if site.enable_navbar_social %}
+          <!-- Social Icons -->
+          <div class="navbar-brand social">{% include social.liquid %}</div>
+        {% endif %}
       {% endif %}
       <!-- Navbar Toggle -->
       <button
@@ -96,7 +101,7 @@
                 </li>
               {% else %}
                 <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
-                  {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
+                  {% if p.permalink contains '/stories/' %}{% assign url = '/stories/' %} {% else %}{% assign url = p.url %}{% endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {{- p.title }}
                     {% if page.url contains p.url %}
