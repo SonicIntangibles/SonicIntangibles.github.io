@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: Sonic Intangibles # the website title (if blank, full name will be used instead)
-first_name: 
+first_name:
 middle_name:
 last_name: Sonic Intangibles
 email: paul.vickers@northumbria.ac.uk
@@ -232,7 +232,7 @@ exclude:
   - package-lock.json
   - _pages/about_einstein.md
   - _pages/cv.md
-  - _pages/teaching.md  
+  - _pages/teaching.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -301,8 +301,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-#  last_name: [Einstein]
-#  first_name: [Albert, A.]
+  #  last_name: [Einstein]
+  #  first_name: [Albert, A.]
 
   style: apa-nvv.csl
   locale: en
@@ -322,16 +322,23 @@ scholar:
   details_link: Details
 
   query: "@*"
-#  Overwrite typenames [PV]
+  #  Overwrite typenames [PV]
   type_aliases: { incollection: inbook }
-  type_names: { article: Journal Articles, inproceedings: 'Conference Papers', proceedings: 'Conference Proceedings', inbook: 'Book Chapters', misc: 'Repositories, Patent Applications, etc.'}
+  type_names:
+    {
+      article: Journal Articles,
+      inproceedings: "Conference Papers",
+      proceedings: "Conference Proceedings",
+      inbook: "Book Chapters",
+      misc: "Repositories, Patent Applications, etc.",
+    }
 
-#  group_by: year
-#  group_order: descending
+  #  group_by: year
+  #  group_order: descending
   sort_by: year,month
   order: descending
-  type_order: [article, proceedings, inproceedings, book, inbook, thesis, misc,techreport]
-  
+  type_order: [article, proceedings, inproceedings, book, inbook, thesis, misc, techreport]
+
   group_by: year,type
   group_order: descending
 
@@ -341,8 +348,24 @@ enable_publication_badges:
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
-  bibtex_skip_fields: [keywords, github, abstract,  month_numeric, annote, bdsk-file-1, bdsk-file-2, bdsk-url-1, bdsk-url-2, bdsk-url-3, date-added, date-modified, pdf, html]
-  
+  bibtex_skip_fields:
+    [
+      keywords,
+      github,
+      abstract,
+      month_numeric,
+      annote,
+      bdsk-file-1,
+      bdsk-file-2,
+      bdsk-url-1,
+      bdsk-url-2,
+      bdsk-url-3,
+      date-added,
+      date-modified,
+      pdf,
+      html,
+    ]
+
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [
@@ -365,8 +388,8 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
-    keywords, 
-    github, 
+    keywords,
+    github,
     abstract,
     month_numeric,
     annote,
@@ -376,7 +399,7 @@ filtered_bibtex_keywords:
     bdsk-url-2,
     bdsk-url-3,
     date-added,
-    date-modified
+    date-modified,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)

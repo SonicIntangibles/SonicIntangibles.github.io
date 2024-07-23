@@ -45,10 +45,13 @@
   {% endif %}
 
   <!-- Entry bib key -->
-   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-   {% assign bibtex_show = true %} <!-- if you want only those entries with the field bibtex_show == true to have a Bib button, then add 'entry.' to all occurrences of bibtex_show below [PV] -->
+  <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+    {% assign bibtex_show = true %}
+    <!--
+      if you want only those entries with the field bibtex_show == true to have a Bib button, then add 'entry.' to all occurrences of bibtex_show below [PV]
+    -->
     {{ reference }}
-        <!-- Replaced al-folio custom layout with CSL style defined in _config.yml [PV] -->
+    <!-- Replaced al-folio custom layout with CSL style defined in _config.yml [PV] -->
     <!-- If you want the old layout back, remove {{ reference }} above and paste in contents of bib-ref.liquid here -->
     <!-- Links/Buttons -->
     <div class="links">

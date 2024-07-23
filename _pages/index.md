@@ -6,10 +6,9 @@ subtitle: <b>Northumbria and Newcastle Universities Sonification Hub for Innovat
 
 profile:
   align: right
-  image: 
+  image:
   image_circular: false # crops the image to make it circular
   more_info: >
-    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
