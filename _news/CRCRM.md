@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funding Announcment
+title: Funding Announcement
 date: 2024-09-02 10:00
 description: Sonic Intangibles is one of UKRI’s new interdisciplinary scheme projects
 tags: UKRI, funding
