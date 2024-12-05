@@ -7,6 +7,9 @@ inline: false
 related_posts: false
 ---
 
+## RECRUITMENT CLOSED
+**These positions have now been filled. Thanks to all who applied.**
+
 The project needs two post-doctoral researchers to play a leading role in the project activities. One post will be based at Northumbria University and the other at neighbouring Newcastle University. Please follow the links below to see each of the job advertisements:
 
 We are seeking two researchers, one at Northumbria University and one at neighbouring Newcastle University, to play a central role in this exciting interdisciplinary project that brings together researchers from a range of fields (Music, Computer Science, Astronomy, Mathematics, Space Weather, and Materials Science) to work on developing sonification solutions as a truly interdisciplinary activity.
