@@ -32,8 +32,7 @@ profiles:
       <p>Dept. of Mathematics, Physics, and Electrical Engineering</p>
   - align: left
     image: ria1.jpg
-    content: about_ria1.md
-    content: about_ria1.md
+    content: about_sk.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
@@ -53,8 +52,8 @@ profiles:
       <p>Newcastle University</p>
       <p>School of Mathematics, Statistics, and Physics</p>
   - align: right
-    image: ria2.jpg
-    content: about_ria2.md
+    image: jb.jpg
+    content: about_jb.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Newcastle University</p>
