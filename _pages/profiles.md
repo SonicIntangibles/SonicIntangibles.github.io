@@ -10,21 +10,21 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: pv.jpg
+    image: pv.jpeg
     content: about_pv.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
       <p>Dept. of Computer and Information Sciences</p>
   - align: left
-    image: djr.jpg
+    image: djr.png
     content: about_djr.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
       <p>Dept. of Mathematics, Physics, and Electrical Engineering</p>
   - align: right
-    image: lw.jpg
+    image: lw.jpeg
     content: about_lw.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -38,7 +38,7 @@ profiles:
       <p>Northumbria University</p>
       <p>Dept. of Computer and Information Sciences</p>
   - align: right
-    image: bh.jpg
+    image: bh.jpeg
     content: about_bh.md
     image_circular: true # crops the image to make it circular
     more_info: >
