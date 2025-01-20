@@ -7,4 +7,4 @@ In 2018-2021 she was a Post-doctoral Researcher at Durham University working on 
 She has performed at numerous Algoraves and Live Coding events worldwide, both solo and with collaborative projects including algo-pop duo ALGOBABEZ (with Joanne Armitage), OFFAL (Orchestra For Females And Laptops), and live coding performance [Sisesta Pealkiri] with Alo Allik.
 
 In 2017 she was a winner of PRSF The Oram Awards for innovation in sound and music.
-[(Source)](https://shellyknotts.wordpress.com/about/)
+(Profile image source [Mariah Tiffany](https://www.flickr.com/photos/gaffta/albums/72157677876870497/with/40715240923/))
