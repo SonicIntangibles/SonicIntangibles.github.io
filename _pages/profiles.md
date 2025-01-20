@@ -45,7 +45,7 @@ profiles:
       <p>Newcastle University</p>
       <p>School of Arts and Cultures</p>
   - align: left
-    image: cmh.jpg
+    image: cmh.jpeg
     content: about_cmh.md
     image_circular: true # crops the image to make it circular
     more_info: >
