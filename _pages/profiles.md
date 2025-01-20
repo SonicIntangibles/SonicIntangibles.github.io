@@ -31,7 +31,7 @@ profiles:
       <p>Northumbria University</p>
       <p>Dept. of Mathematics, Physics, and Electrical Engineering</p>
   - align: left
-    image: ria1.jpg
+    image: sk.jpg
     content: about_sk.md
     image_circular: true # crops the image to make it circular
     more_info: >
