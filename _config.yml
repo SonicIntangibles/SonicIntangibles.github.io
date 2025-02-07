@@ -10,7 +10,7 @@ email: paul.vickers@northumbria.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  Funded by <a href="https://www.ukri.org/news/first-projects-from-ukris-new-interdisciplinary-scheme-announced/" target="_blank">UKRI's Cross Research Council Responsive Mode Scheme</a>
+  Funded by <a href="https://www.ukri.org/news/first-projects-from-ukris-new-interdisciplinary-scheme-announced/" target="_blank">UKRI's Cross Research Council Responsive Mode Scheme</a>, Grant Number <a href="https://gtr.ukri.org/projects?ref=MR%2FZ506448%2F1">MR/Z506448/1</a>
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Some photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
