@@ -17,20 +17,27 @@ profiles:
       <p>Newcastle University</p>
       <p>School of Arts and Cultures</p>   
   - align: left
+    image: cd.jpg
+    content: about_cd.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Northumbria University</p>
+      <p>NUSTEM</p>   
+  - align: right
     image: cmh.jpeg
     content: about_cmh.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Newcastle University</p>
       <p>School of Mathematics, Statistics, and Physics</p>
-  - align: right
+  - align: left
     image: bh.jpeg
     content: about_bh.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Newcastle University</p>
       <p>School of Arts and Cultures</p>
-  - align: left
+  - align: right
     image: sk.jpg
     content: about_sk.md
     image_circular: true # crops the image to make it circular
@@ -59,6 +66,13 @@ profiles:
       <p>Northumbria University</p>
       <p>Dept. of Mathematics, Physics, and Electrical Engineering</p>
   - align: right
+    image: rs.png
+    content: about_rs.md
+    image_circular: true
+    more_info: >
+      <p>Newcastle University</p>
+      <p>School of Mathematics, Statistics, and Physics</p>
+  - align: left
     image: pv.jpeg
     content: about_pv.md
     image_circular: true # crops the image to make it circular
