@@ -66,7 +66,7 @@ profiles:
       <p>Northumbria University</p>
       <p>Dept. of Mathematics, Physics, and Electrical Engineering</p>
   - align: right
-    image: rs.png
+    image: rs.jpg
     content: about_rs.md
     image_circular: true
     more_info: >
