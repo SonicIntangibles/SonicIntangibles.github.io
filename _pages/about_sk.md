@@ -1,4 +1,4 @@
-### Dr Shelly Knotts (Northumbria University) — Post Doctoral Research Fellow
+### Dr Shelly Knotts — Post Doctoral Research Fellow
 
 Shelly Knotts produces live-coded and network music performances and projects which explore aspects of code, data and collaboration in improvisation. Based in Newcastle Upon Tyne, UK, she performs internationally, collaborating with computers and other humans. In 2021-2023 she was an Artist-in-Residence on the Heritage Lottery funded Seascapes project, working with communities in Sunderland.
 
