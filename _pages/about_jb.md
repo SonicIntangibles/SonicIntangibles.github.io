@@ -1,4 +1,4 @@
-### Dr Jorge Boehringer (Newcastle University) — Post Doctoral Research Associate
+### Dr Jorge Boehringer — Post Doctoral Research Associate
 
 Jorge Boehringer is a composer, writer, and multimedia artist whose work instigates and explores instability, contingency, and noise. Jorge investigates time and temporality through the creation and modeling of real and imagined aspects of 'nature' through spatialized sound installation environments. Norths, a recently exhibited collection of sonfication-centred sound and visual installations, interrogates the role of measurement standards in the construction of knowledge, personal identity, and social reality.
 
