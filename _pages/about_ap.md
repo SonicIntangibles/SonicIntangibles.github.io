@@ -1,6 +1,6 @@
 <a name="ap"></a>
 
-### Dr Antonio Portas (Northumbria University) - NUSTEM
+### Dr Antonio Portas - NUSTEM
 
 Antonio is an Assistant Professor who oversees the partner schools initiatives of [NUSTEM](https://nustem.uk/), with an emphasis on careers contextualisation in the classroom and curriculum-led outreach activities. 
 Prior to working at Northumbria Antonio worked for the widening participation team at Leeds Beckett University, where he also taught applied pedagogy to Physics PGCE teacher trainees. 
