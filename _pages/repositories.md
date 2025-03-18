@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Selected repositories from the project and its team members
+description: Selected repositories from Sonic Intangibles and its team members
 nav: true
 nav_order: 4
 ---
