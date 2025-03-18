@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects from Sonic Intangibles and its team members.
+description: Selected repositories from Sonic Intangibles and its team members.
 nav: true
 nav_order: 3
 # display_categories: [Sonic Intangibles, Individual Team Members]
