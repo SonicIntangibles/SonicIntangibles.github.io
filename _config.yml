@@ -296,7 +296,7 @@ jekyll-archives:
     tag: "/stories/tag/:name/"
     category: "/stories/category/:name/"
 
-display_tags: ["audio"] #, "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["audio","paper-of-the-week","reflection"] #, "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["previous-work"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
