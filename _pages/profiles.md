@@ -45,15 +45,15 @@ profiles:
       <p>Northumbria University</p>
       <p>Dept. of Computer and Information Sciences</p>
   - align: left
-    image: ap.jpg
-    content: about_ap.md
+    image: apa.jpg
+    content: about_apa.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
       <p>NUSTEM</p>  
   - align: right
-    image: apa.jpg
-    content: about_apa.md
+    image: ap.jpg
+    content: about_ap.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
