@@ -8,3 +8,5 @@ She has performed at numerous Algoraves and Live Coding events worldwide, both s
 
 In 2017 she was a winner of PRSF The Oram Awards for innovation in sound and music.
 (Profile image source [Mariah Tiffany](https://www.flickr.com/photos/gaffta/albums/72157677876870497/with/40715240923/))
+
+You can read more about Shelly's work on her [personal website](http://datamusician.net/)
