@@ -181,6 +181,7 @@ external_sources:
 
 collections:
   news:
+    enabled: false
     defaults:
       layout: post
     output: false
