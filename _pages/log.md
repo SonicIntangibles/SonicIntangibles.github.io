@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: /stories/
-title: stories
+permalink: /log/
+title: log
 nav: true
 nav_order: 1
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 8
   sort_field: date
   sort_reverse: true
   trail:
