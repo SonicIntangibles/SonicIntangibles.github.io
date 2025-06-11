@@ -2,7 +2,7 @@
 layout: post 
 title: Week 1 Blog Post 
 date: 2025-06-06 
- tags: student-bog, reflection
+ tags: student-blog, reflection
 featured: true 
 ---
 
