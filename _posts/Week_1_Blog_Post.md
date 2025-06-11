@@ -2,7 +2,7 @@
 layout: post 
 title: Week 1 Blog Post 
 date: 2025-06-06 
- tags: student-blog, reflection
+tags: student-blog, reflection
 featured: true 
 ---
 
@@ -31,11 +31,11 @@ The first week of our four week project focused on getting to know one another a
 
  To begin with, we wanted to plot a basic graph using some real data to allow us to experiment with the sound that can be produced from this. To do this, we decided to use a subset of galaxy data that the physics students had used for a previous course. We took the redshift and colour indices of 500 galaxies from this set. The graph below shows the data plotted as colour index against redshift:
  
- ![](assets/img/blog1_fig1.png)
+ ![](../assets/img/blog1_fig1.png)
 
  To attempt our first Sonifcation, we took only the u-band and plotted this against redshift. We then used Strauss to treat each data point as an event that producees its own sound to make an overall representation of the amplitude of the graph using a varying pitch for each data point. The graph, and accompanying Sonifcation can be seen below:
 
-  ![](assets/img/blog1_fig2.png)
+  ![](../assets/img/blog1_fig2.png)
   
   [link to Sonifcation ](https://newcastle.sharepoint.com/:u:/s/SonificationSummerProject2025/EUwCvtlG5nlDlCVJJTTvTBsBxgeW6JOLKB_pjb9YAnckaQ?e=IdXmvk).
 
