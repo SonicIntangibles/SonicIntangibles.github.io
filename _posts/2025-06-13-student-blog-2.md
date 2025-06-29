@@ -70,7 +70,7 @@ One feature of our interdisciplinary group that was carried over from last week 
 
 However, both sets of students highlighted that they felt ‘respected’ and ‘supported throughout the week and expressed that they helped one another understand the other's expertise, so the group was always on the same page. This sharing of information highlighted once again the benefit of this being an interdisciplinary project, as we have all expressed multiple times across the week that we were glad that we had different expertise and how we would not have been able to complete the project without our varied set of skills. 
 
- ## Aims for Week 3
+## Aims for Week 3
 
 After our session on Friday, when we creatively worked with the data in Ableton Live, group members felt they were in a ‘good position’ and felt ‘excited’  to continue experimenting with ‘different interpretations’ and ideas, already ‘thinking about how we can further develop the basis we created’ on Friday. 
 
