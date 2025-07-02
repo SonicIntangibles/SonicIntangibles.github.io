@@ -34,15 +34,15 @@ After coming together on Tuesday to discuss our findings from our independent st
 
 To begin this process, we obtained some gravitational wave data and plotted the graph that you can see below: 
 
-![](https://newcastle-my.sharepoint.com/:i:/g/personal/c3035389_newcastle_ac_uk/EXqTwJ1lUCVDrtCBCfD-HBkBZIg_Sf5W_y1niNBW56dzAw?e=d1nMvQ)
+![]({{ site.baseurl }}/assets/img/week2_plot1.png)
   
 We then, after some issues with coding, mapped pitch to the frequency values of the graph to create a successful sonification of the data. 
 
 We ran into a few problems with the coding due to the amount of data that was available, so we tried several methods to adjust the material, including our attempt to sonify the original image of the data, as seen below. Ultimately, after implementing the suggestions from our supervisors, we managed to input the data into a more suitable form by resampling the data and applying a low-frequency filter cutoff to aid in emphasising the intense change in the data. This sonification can be heard below: 
 
-![](https://newcastle-my.sharepoint.com/:i:/g/personal/c3035389_newcastle_ac_uk/EfZp6mrNwixKuRcJKcAH0EkB3opWXj7kgiP8z2xeVXv28g?e=MjP3xF)
+![]({{ site.baseurl }}/assets/img/week2_plot2.png)
 
-[Cut in half Black Hole graph](https://newcastle-my.sharepoint.com/:u:/g/personal/c3035389_newcastle_ac_uk/EdToW2WrwrxCk9d4YcH9hc4BdQbnevbaffmDIYna-b7Oxw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rG5RH3).
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2123173803&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonic-intangibles" title="Sonic Intangibles" target="_blank" style="color: #cccccc; text-decoration: none;">Sonic Intangibles</a> · <a href="https://soundcloud.com/sonic-intangibles/week2_sonification-1" title="week2_sonification" target="_blank" style="color: #cccccc; text-decoration: none;">week2_sonification</a></div>
  
 We also explored Oliver's use of his synthesiser, using a range of techniques and effects to investigate the musical potential of sound created through data. Here are some of his explorations below:
    
