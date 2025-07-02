@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Week 2 Blog Post
+title: Week 3 Blog Post
 date: 2025-06-24
 tags: student-blog, reflection
 featured: true 
