@@ -1,12 +1,12 @@
 --- 
 layout: post 
-title: Week 3 Blog Post
+title: Student-led gravitational waves project: wk 4
 date: 2025-07-14 
 tags: student-blog, reflection
 featured: true 
 ---
 
-# The final week of our project-
+# The final week of our project
 
 When starting this project just three weeks ago, our goal was to explore methods of representing intangible phenomena with sound. In this final week, we bring together everything we have worked on to create an interactive exhibition, showcasing our sonification on a university open day to members of the public and academics from the university.
 
