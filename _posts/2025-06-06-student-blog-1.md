@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Week 1 Blog Post 
+title: Student-led gravitational waves project (wk 1) 
 date: 2025-06-06 
 tags: student-blog, reflection
 featured: true 
