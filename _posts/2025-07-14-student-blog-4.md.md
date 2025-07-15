@@ -1,6 +1,6 @@
 --- 
 layout: post 
-title: Student-led gravitational waves project: wk 4
+title: Student-led gravitational waves project (wk 4)
 date: 2025-07-14 
 tags: student-blog, reflection
 featured: true 
