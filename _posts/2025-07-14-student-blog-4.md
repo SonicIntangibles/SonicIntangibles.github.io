@@ -24,7 +24,7 @@ This week, our goal was to get everything set up for the exhibition on Friday. W
 
  - Day 5: The Installation- We ran the installation from 10am to 3pm, and tried to rotate roles to ensure all members of our group had time for breaks. We found that ‘the most challenging part was trying to maintain a steady stream of people’ with all the open day activities happening, leading to a discussion about how we could have improved advertising if we had more time to organise the event. But by the end of the day, we felt ‘proud’ and ‘supported’, estimating that 50-60 people had visited our installation, which students found ‘really surprising’. The general consensus was that the day was a success, and many people ‘seemed to be really interested’ in our work. We felt that ‘we did a good job in achieving (our goals)’ and that ‘the project was an overall success’. We even have a potential future opportunity to explore the project, as someone working at an observatory seemed interested in what we had been doing.
 
-# Black Hole Sonification-
+# Black Hole Sonification
 
  We successfully sonified the gravitational wave data of a black hole collision event, as seen in the previous weeks blog post. We used data from the USA’s LIGO and Italy’s VIRGO sites, and incorporated this into our installation by having different speakers output data from the different locations. We used the groups musical knowledge to add volume mapping and a bass drop at the collision event to really emphasise this astrophysical phenomenon, resulting in an experience where you could ‘almost feel’ the event. We achieved our aim of an installation where people could walk around and experience the interactions of the different sounds in real time, making intangible gravitational waves more tangible.
 
@@ -36,14 +36,10 @@ This week, our goal was to get everything set up for the exhibition on Friday. W
 
 [Available here](https://doi.org/10.5281/zenodo.15878109)
 
-## And an image of some people exploring our installation:
-
-![](https://drive.google.com/file/d/1LMVWMJ5i4uXrXfOOL3zg1gaRinnwxqDR/view?usp=sharing)
-
 The only major downside of this project was the limited timescale. As a group, we had so many initial ideas and different approaches that we could have explored, and it is a shame that we had to pick only one to work on in order to achieve our goals. This may be where some feelings of ‘compromising’ stemmed from.
 
 # Final thoughts
 
- During this project, we ‘worked well as an interdisciplinary group’ to achieve our goals, with each of our skillsets proving invaluable. The experience was enjoyable and we ‘learnt a lot about each other’s fields’.
+During this project, we ‘worked well as an interdisciplinary group’ to achieve our goals, with each of our skillsets proving invaluable. The experience was enjoyable and we ‘learnt a lot about each other’s fields’.
 
 Over the four-week project, we explored different methods of sonification, some more interpretive and some more data driven. The final product was a combination of both: directly sonified data that we mixed using musical software, and then showcased in an interactive way, such that the very space used for the installation contributed to the resulting sonification. When talking about using the space, one member of the group said that they ‘enjoyed that each location occupied one section of the room so that when walking around in the soundscape you were effectively walking around the world.’ In other words, the resulting sonification was a blend of our teams three disciplines; astrophysics, music and art.
