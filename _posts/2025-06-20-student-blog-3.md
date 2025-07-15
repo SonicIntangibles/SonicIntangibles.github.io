@@ -42,15 +42,15 @@ featured: true
 
  We then separated each of them into three layers corresponding to the sound frequency ranges, highs, mids and lows. For example, here are the different layers of the H1 data. 
 
- <img src="{{ site.baseurl }}/assets/img/high_h1.png" width="400"/>
+ <img src="{{ site.baseurl }}/assets/img/high_h1.png" width="800"/>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2123166891&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonic-intangibles" title="Sonic Intangibles" target="_blank" style="color: #cccccc; text-decoration: none;">Sonic Intangibles</a> · <a href="https://soundcloud.com/sonic-intangibles/high-h1-1-2" title="high h1 1" target="_blank" style="color: #cccccc; text-decoration: none;">high h1 1</a></div>
 
- <img src="{{ site.baseurl }}/assets/img/mid_h1.png" width="400"/>
+ <img src="{{ site.baseurl }}/assets/img/mid_h1.png" width="800"/>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2123166894&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonic-intangibles" title="Sonic Intangibles" target="_blank" style="color: #cccccc; text-decoration: none;">Sonic Intangibles</a> · <a href="https://soundcloud.com/sonic-intangibles/mid-h1-1" title="mid h1" target="_blank" style="color: #cccccc; text-decoration: none;">mid h1</a></div>
 
- <img src="{{ site.baseurl }}/assets/img/low_h1.png" width="400"/>
+ <img src="{{ site.baseurl }}/assets/img/low_h1.png" width="800"/>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2123166276&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonic-intangibles" title="Sonic Intangibles" target="_blank" style="color: #cccccc; text-decoration: none;">Sonic Intangibles</a> · <a href="https://soundcloud.com/sonic-intangibles/low-h1" title="low h1" target="_blank" style="color: #cccccc; text-decoration: none;">low h1</a></div>
 
