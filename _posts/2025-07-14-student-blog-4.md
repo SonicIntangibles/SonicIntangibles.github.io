@@ -28,13 +28,13 @@ This week, our goal was to get everything set up for the exhibition on Friday. W
 
  We successfully sonified the gravitational wave data of a black hole collision event, as seen in the previous weeks blog post. We used data from the USA’s LIGO and Italy’s VIRGO sites, and incorporated this into our installation by having different speakers output data from the different locations. We used the groups musical knowledge to add volume mapping and a bass drop at the collision event to really emphasise this astrophysical phenomenon, resulting in an experience where you could ‘almost feel’ the event. We achieved our aim of an installation where people could walk around and experience the interactions of the different sounds in real time, making intangible gravitational waves more tangible.
 
-## Below is our final 5.1 sound track:
+## Below is our final 5.1 sound track
 
-(https://newcastle-my.sharepoint.com/:u:/g/personal/c2034612_newcastle_ac_uk/Ed894bEZ5BZGsBku6E4fXnQB5yFtMyPqxwNvO3RHcPx3Uw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=LaOfFc&xsdata=MDV8MDJ8Sy5BLlBhdG9uMkBuZXdjYXN0bGUuYWMudWt8ODlkMzgyN2NhOGY3NDljZmFhN2IwOGRkYmMwNmI2YzV8OWM1MDEyYzliNjE2NDRjMmE5MTc2NjgxNGZiZTNlODd8MXwwfDYzODg3MzQ1OTE5MTU1OTA2N3xVbmtub3dufFRXRnBiR1pzYjNkOGV5SkZiWEIwZVUxaGNHa2lPblJ5ZFdVc0lsWWlPaUl3TGpBdU1EQXdNQ0lzSWxBaU9pSlhhVzR6TWlJc0lrRk9Jam9pVFdGcGJDSXNJbGRVSWpveWZRPT18MHx8fA%3d%3d&sdata=cDJ4Nlo3TDlKZUZqbm96YmQwdC8yUyt1TEtES3U0U0ptMW9ieDhBRHBIQT0%3d)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2130637569&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonic-intangibles" title="Sonic Intangibles" target="_blank" style="color: #cccccc; text-decoration: none;">Sonic Intangibles</a> · <a href="https://soundcloud.com/sonic-intangibles/final_audio_binauralmix" title="Final_Audio_BinauralMix" target="_blank" style="color: #cccccc; text-decoration: none;">Final_Audio_BinauralMix</a></div>
 
 ## The binaural version of the sound track with video:
 
-(https://doi.org/10.5281/zenodo.15878109)
+[Available here](https://doi.org/10.5281/zenodo.15878109)
 
 ## And an image of some people exploring our installation:
 
