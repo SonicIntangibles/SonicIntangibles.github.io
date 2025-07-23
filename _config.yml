@@ -188,6 +188,7 @@ collections:
     permalink: /news/:path/
   events:
     enabled: true
+    defaults:
       layout: post
     output: true
     permalink: /events/:path/
