@@ -3,12 +3,12 @@ layout: post
 title: Student-led gravitational waves project (wk 1) 
 date: 2025-06-06 
 tags: student-blog, reflection
-featured: true 
+featured: false 
 ---
 
 # Sonification Week 1 Blog Post
 
-## Introduction to our project 
+## Introduction to our project
 
  Our goal for this project is to explore how we can represent otherwise intangible media using sound. Specfically, we'd like to explore an astrophysical phenomena and repesent it in a more tangible way.
 

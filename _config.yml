@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Intangible Log # blog_name will be displayed in your blog page
 blog_description: Posts from the project team
-permalink: /log/:year/:title/
+permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -300,13 +300,14 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/log/:year/"
-    tag: "/log/tag/:name/"
-    category: "/log/category/:name/"
+    year: "/blog/:year/"
+    tag: "/blog/tag/:name/"
+    category: "/blog/category/:name/"
 
-display_tags: ["audio","paper-of-the-fortnight","reflection","student-blog","events"] #, "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_tags: ["audio","paper-of-the-fortnight","reflection","student-blog"] #, "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: [] # these categories will be displayed on the front page of your blog
 
+display_event_categories: [archive-category]
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
@@ -479,6 +480,8 @@ enable_project_categories: true # enables categorization of projects into multip
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
+
+enable_event_categories: true
 
 # -----------------------------------------------------------------------------
 # Library versions

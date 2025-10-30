@@ -3,7 +3,7 @@ layout: post
 title:  Student-led gravitational waves project (wk 2) 
 date: 2025-06-17
 tags: student-blog, reflection
-featured: true 
+featured: false 
 ---
 
 # Sonification Week 2 Blog Post
@@ -28,7 +28,7 @@ featured: true
 
 - On Friday, we explored the sonification through the music programme Ableton Live. We converted the WAV file into a MIDI file and started to explore how the different musical effects, such as volume, panning, reverb and distortion devices, manipulated the interpretation of the data. Most noticeably, we imputed synthetic instrumental sounds onto the data and were intrigued by how the change in timbre made us automatically perceive the data in a more musical form than it had been when it was sonified by Strauss. 
 
-## Black Hole Sonification: 
+## Black Hole Sonification:
 
 After coming together on Tuesday to discuss our findings from our independent study day, we decided to explore the idea of sonifying two black holes colliding.
 
@@ -54,7 +54,7 @@ After we had successfully sonified the data in Strauss, we began to explore with
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2121587007&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonic-intangibles" title="Sonic Intangibles" target="_blank" style="color: #cccccc; text-decoration: none;">Sonic Intangibles</a> · <a href="https://soundcloud.com/sonic-intangibles/sonification-4" title="Sonification" target="_blank" style="color: #cccccc; text-decoration: none;">Sonification</a></div>
 
-## Week 2: Interdisciplinary Teamwork 
+## Week 2: Interdisciplinary Teamwork
 
 Below is a summary of how we felt our teamworking skills have developed and been challenged across week 2, aided by some student quotes.
 

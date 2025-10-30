@@ -5,16 +5,17 @@ permalink: /events/
 description: Events run by the team.
 nav: true
 nav_order: 3
-pagination:
-  enabled: true
-  collection: events
-  permalink: /page/:num/
-  per_page: 8
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+#pagination:
+#  enabled: true
+#  collection: events
+#  permalink: /page/:num/
+#  per_page: 8
+#  sort_field: date
+#  sort_reverse: true
+#  trail:
+#    before: 1 # The number of links before the current page
+#    after: 3 # The number of links after the current page
+horizontal: false
 ---
 
 <!-- pages/events.md -->

@@ -3,7 +3,7 @@ layout: post
 title:  Student-led gravitational waves project (wk 3) 
 date: 2025-06-24
 tags: student-blog, reflection
-featured: true 
+featured: false 
 ---
 
 # Sonification Week 3 Blog Post
@@ -22,7 +22,7 @@ featured: true
 - On Thursday we began building upon the knowledge and skills aquired from experimenting with our proof of concept piece to create our final sonification. We decided to create a new track using the split layers from the H1, V1 and L1 strain to create one cohesive piece, with the different strains assigned to low, medium and high frequencies which will then be assigned to different speakers. We also experimented with mapping the pitch and volume of the different layers in an attempt to help make each layer sound more cohesive when played through each speaker, one method we used to achieve this was pitching certain tracks to a note on the pentatonic F scale, which also helped give the sonification a more musical and cohesive element which counteracted the stiff, robotic sounds created in Strauss.
 - On Friday, we aimed to create a 5.1 track to test the speaker set up with. Continuing work with Ableton, using methods such as modifying the pitch, reverb and volume to strengthen the main event and relationships between the each of the points in the data, like the use of a staggered entry bass drop to emphasise the key peak of the data. We also experimented with Hydra, a visual synthesizer to create a visual component to compliment the soundscape. Taking a more interpretive approach in order to replicate the colour scheme used in the gravitational waves graph, to match the timescale of the data and to give a representational appearance of the collision event at 30 seconds to coincide with the sonification. 
 
-## Black Hole Sonification: 
+## Black Hole Sonification:
 
  After an insightful meeting with our supervisors on Wednesday, we decided to start creating our final sonification. 
 
@@ -60,7 +60,7 @@ featured: true
 
  We also thought another option could be the front left speaker could play both the high and mid of H1 and the front right could play both the high and mid of L1, instead of having both high frequencies in one speaker and both mid frequencies in another.
 
-## Week 3: Interdisciplinary Teamwork 
+## Week 3: Interdisciplinary Teamwork
 
  Below is a summary of how our collaborative skills have been challenged and refined across week 3, featuring some student quotes. 
 
@@ -72,7 +72,7 @@ However, we had a focused group discussion about where we were heading, what we 
  
 Our end goal feeds really well into our interdisciplinary practice as it represents a physics phenomena in the form of music and art. We are also engaging in a diverse array of mediums to produce this; further utilising our varying fields and strengths as a collective. 
  
- ## Aims for Week 4 
+ ## Aims for Week 4
 
 After the final session of this week, students expressed feeling 'enthusiastic', 'inspired' and 'hopeful'.
 Next week we aim to further experiment with the surround sound speaker system and plan more precisely how the installation should be curated, with further exploration into panning effects and how the soundscape will behave within the space. In addition to extended investigation into the visual and tactile elements of the installation in an attempt to make the data and installation even more accessible and experiential. 
