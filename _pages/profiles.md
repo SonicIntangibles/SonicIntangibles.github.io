@@ -10,12 +10,26 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
+    image: ba.jpg
+    content: about_ba.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Northumbria University</p>
+      <p>School of Computer Science</p>  
+  - align: left
     image: jb.jpg
     content: about_jb.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Newcastle University</p>
       <p>School of Arts and Cultures</p>   
+  - align: right
+    image: gc.jpg
+    content: about_gc.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>Newcastle University</p>
+      <p>School of Mathematics, Statistics, and Physics</p>  
   - align: left
     image: cd.jpg
     content: about_cd.md
@@ -43,7 +57,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
-      <p>Dept. of Computer and Information Sciences</p>
+      <p>School of Computer Science</p>
   - align: left
     image: apa.jpg
     content: about_apa.md
@@ -64,7 +78,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
-      <p>Dept. of Mathematics, Physics, and Electrical Engineering</p>
+      <p>School of Engineering, Physics and Mathematics</p>
   - align: right
     image: rs.jpg
     content: about_rs.md
@@ -78,14 +92,14 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
-      <p>Dept. of Computer and Information Sciences</p>
+      <p>School of Computer Science</p>
   - align: right
     image: lw.jpeg
     content: about_lw.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Northumbria University</p>
-      <p>Dept. of Mathematics, Physics, and Electrical Engineering</p>
+      <p>School of Engineering, Physics and Mathematics</p>
   
 
 
