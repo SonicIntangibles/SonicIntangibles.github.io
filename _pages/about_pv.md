@@ -1,6 +1,6 @@
 <a name="pv"></a>
 
-### Professor Paul Vickers — Project Lead
+### Professor Paul Vickers — Project Lead (Alumni)
 
 [Paul](https://paulvickers.github.io) is an Emeritus Professor of Computer Science and Sonification. He carries out teaching and research in the computing domain where it intersects with creative digital media. His primary research area is sonification and auditory display with a particular interest in how the aesthetic properties of scientific artefacts affect how they may be used, that is, how people interact with and experience them them.
 
