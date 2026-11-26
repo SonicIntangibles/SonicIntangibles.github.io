@@ -27,4 +27,4 @@ group :other_plugins do
     gem 'httparty'
 end
 
-gem "json", "~> 2.7"
+gem "json", "~> 2.19"
