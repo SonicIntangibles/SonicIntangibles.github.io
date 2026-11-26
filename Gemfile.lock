@@ -54,7 +54,7 @@ GEM
       addressable
       ssrf_filter (~> 1.5)
     cssminify2 (2.1.0)
-    csv (3.3.5)
+    csv (3.3.7)
     date (3.5.0)
     deep_merge (1.2.2)
     drb (2.2.3)
@@ -84,7 +84,7 @@ GEM
       nokogiri (>= 1.4)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
-    httparty (0.23.2)
+    httparty (0.24.0)
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
